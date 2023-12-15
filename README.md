@@ -12,6 +12,7 @@
 | selection-sort | [Source Code][sort3code] | 2023/08/14 |
 | merge-sort | [Source Code][sort4code] | 2023/09/06 |
 | heap-sort | [Source Code][sort5code] | 2023/09/15 |
+| quick-sort | [Source Code][sort6code] | 2023/09/18 |
 
 <!-- URL Below -->
 
@@ -21,3 +22,4 @@
 [sort3code]: ./data-structure/sort/selection-sort.js
 [sort4code]: ./data-structure/sort/merge-sort.js
 [sort5code]: ./data-structure/sort/heap-sort.js
+[sort6code]: ./data-structure/sort/quick-sort.js
