@@ -3,6 +3,7 @@
 ## data structure
 
 - [linked List][1code]
+- [Binary Search Tree][2code]
 
 **Sort algorithm**
 | Title | Code | Date |
@@ -17,6 +18,7 @@
 <!-- URL Below -->
 
 [1code]: ./data-structure/LinkedList.js
+[2code]: ./data-structure/binary-search-tree.js
 [sort1code]: ./data-structure/sort/bubble-sort.js
 [sort2code]: ./data-structure/sort/insertion-sort.js
 [sort3code]: ./data-structure/sort/selection-sort.js
